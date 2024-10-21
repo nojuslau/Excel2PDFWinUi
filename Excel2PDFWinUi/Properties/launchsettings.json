@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "Excel2PDFWinUi (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "Excel2PDFWinUi (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
